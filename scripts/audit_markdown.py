@@ -55,6 +55,27 @@ def main() -> None:
             expected = f"../assets/chapters/{number}/"
             if sum(path.startswith(expected) for path in images) != 2:
                 errors.append(f"{chapter}: ожидаются ровно 2 иллюстрации главы")
+            visual_summary = re.search(
+                r"<!-- visual-summary:start -->(.*?)<!-- visual-summary:end -->",
+                text,
+                re.DOTALL,
+            )
+            if visual_summary is None:
+                errors.append(f"{chapter}: отсутствует блок визуального конспекта")
+            elif len(IMAGE_RE.findall(visual_summary.group(1))) != 1:
+                errors.append(
+                    f"{chapter}: в верхнем визуальном конспекте должна быть "
+                    "ровно 1 иллюстрация"
+                )
+            image_matches = list(IMAGE_RE.finditer(text))
+            if len(image_matches) == 2:
+                first_line = text.count("\n", 0, image_matches[0].start()) + 1
+                second_line = text.count("\n", 0, image_matches[1].start()) + 1
+                if second_line - first_line < 40:
+                    errors.append(
+                        f"{chapter}: иллюстрации расположены слишком близко "
+                        f"(строки {first_line} и {second_line})"
+                    )
             if "```mermaid" not in text:
                 errors.append(f"{chapter}: отсутствует Mermaid-схема")
             if "<!-- chapter-nav:start -->" not in text:
