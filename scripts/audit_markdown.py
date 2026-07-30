@@ -8,6 +8,8 @@ import struct
 import sys
 from pathlib import Path
 
+sys.dont_write_bytecode = True
+
 from build_full_text import prepare
 
 
