@@ -1,0 +1,16 @@
+# Конфигурация CodeRabbit.
+#
+# Автоматические ревью отключены: пособие состоит из прозы, а не кода, поэтому
+# автопрогон на каждый push расходует платную квоту без соразмерной пользы.
+#
+# При необходимости разовое ревью по-прежнему можно запросить вручную,
+# оставив в PR комментарий: @coderabbitai review
+#
+# Полная схема: https://docs.coderabbit.ai/reference/yaml-template
+
+reviews:
+  auto_review:
+    enabled: false
+    drafts: false
+  high_level_summary: false
+  poem: false
