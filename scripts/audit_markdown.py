@@ -15,7 +15,7 @@ from build_full_text import prepare
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAPTERS = sorted((ROOT / "главы").glob("[0-9][0-9]-*.md"))
-ROOT_DOCS = [ROOT / "README.md", ROOT / "ИСТОЧНИКИ.md"]
+ROOT_DOCS = [ROOT / "README.md", ROOT / "ИСТОЧНИКИ.md", ROOT / "СЛАЙДЫ.md", ROOT / "ИЛЛЮСТРАЦИИ.md"]
 IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
 LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)#]+)(?:#[^)]+)?\)")
 
@@ -38,6 +38,67 @@ def check_links(path: Path, errors: list[str]) -> None:
             errors.append(f"{path.relative_to(ROOT)}: не найдена ссылка {target}")
 
 
+def check_numbering(errors: list[str]) -> None:
+    """Последовательность номеров глав, разделов и подразделов.
+
+    Ловит не только дубли, но и разрывы: раздел, физически стоящий в конце
+    главы с номером из её середины, — типичный след ручной вставки.
+    """
+    expected = 0
+    for chapter in CHAPTERS:
+        if chapter.name.startswith("00-"):
+            continue
+        expected += 1
+        lines = chapter.read_text().splitlines()
+        name = chapter.relative_to(ROOT)
+
+        head = re.match(r"^# Глава (\d+)\.", lines[0]) if lines else None
+        if head is None:
+            errors.append(f"{name}: первая строка не «# Глава N.»")
+            continue
+        number = int(head.group(1))
+        if number != expected:
+            errors.append(f"{name}: «Глава {number}», по порядку файлов ожидается {expected}")
+
+        sections: list[int] = []
+        subsections: dict[int, list[int]] = {}
+        for line in lines:
+            level2 = re.match(r"^## (\d+)\.(\d+)\.", line)
+            level3 = re.match(r"^### (\d+)\.(\d+)\.(\d+)\.", line)
+            if level2:
+                owner, index = int(level2.group(1)), int(level2.group(2))
+                if owner != number:
+                    errors.append(f"{name}: раздел {owner}.{index} в главе {number}")
+                sections.append(index)
+            if level3:
+                owner, parent, index = (int(part) for part in level3.groups())
+                if owner != number:
+                    errors.append(
+                        f"{name}: подраздел {owner}.{parent}.{index} в главе {number}"
+                    )
+                subsections.setdefault(parent, []).append(index)
+
+        for label, items, prefix in [
+            ("разделы", sections, f"{number}"),
+            *[
+                (f"подразделы {number}.{parent}", items, f"{number}.{parent}")
+                for parent, items in subsections.items()
+            ],
+        ]:
+            if not items:
+                continue
+            if items != sorted(items):
+                errors.append(f"{name}: {label} идут не по возрастанию: {items}")
+            duplicates = {i for i in items if items.count(i) > 1}
+            if duplicates:
+                errors.append(f"{name}: дублируются {label} {sorted(duplicates)}")
+            gaps = [i for i in range(1, max(items) + 1) if i not in items]
+            if gaps:
+                errors.append(
+                    f"{name}: пропущены {label} — нет {', '.join(f'{prefix}.{i}' for i in gaps)}"
+                )
+
+
 def main() -> None:
     errors: list[str] = []
     expected_numbers = [f"{number:02d}" for number in range(16)]
@@ -51,10 +112,13 @@ def main() -> None:
         text = chapter.read_text()
         number = chapter.name[:2]
         if number != "00":
-            images = IMAGE_RE.findall(text)
-            expected = f"../assets/chapters/{number}/"
-            if sum(path.startswith(expected) for path in images) != 2:
-                errors.append(f"{chapter}: ожидаются ровно 2 иллюстрации главы")
+            # Растровых иллюстраций в главах больше нет: они вынесены в
+            # ИЛЛЮСТРАЦИИ.md и СЛАЙДЫ.md, в тексте остаются только схемы.
+            if IMAGE_RE.search(text):
+                errors.append(
+                    f"{chapter}: в главах не должно быть растровых иллюстраций, "
+                    "их место — ИЛЛЮСТРАЦИИ.md или СЛАЙДЫ.md"
+                )
             visual_summary = re.search(
                 r"<!-- visual-summary:start -->(.*?)<!-- visual-summary:end -->",
                 text,
@@ -62,20 +126,10 @@ def main() -> None:
             )
             if visual_summary is None:
                 errors.append(f"{chapter}: отсутствует блок визуального конспекта")
-            elif len(IMAGE_RE.findall(visual_summary.group(1))) != 1:
+            elif "```mermaid" not in visual_summary.group(1):
                 errors.append(
-                    f"{chapter}: в верхнем визуальном конспекте должна быть "
-                    "ровно 1 иллюстрация"
+                    f"{chapter}: в визуальном конспекте должна быть Mermaid-схема"
                 )
-            image_matches = list(IMAGE_RE.finditer(text))
-            if len(image_matches) == 2:
-                first_line = text.count("\n", 0, image_matches[0].start()) + 1
-                second_line = text.count("\n", 0, image_matches[1].start()) + 1
-                if second_line - first_line < 40:
-                    errors.append(
-                        f"{chapter}: иллюстрации расположены слишком близко "
-                        f"(строки {first_line} и {second_line})"
-                    )
             if "```mermaid" not in text:
                 errors.append(f"{chapter}: отсутствует Mermaid-схема")
             if "<!-- chapter-nav:start -->" not in text:
@@ -87,10 +141,11 @@ def main() -> None:
             errors.append(f"{chapter}: незакрытый fenced-блок")
         check_links(chapter, errors)
 
-    chapter_images = sorted((ROOT / "assets" / "chapters").glob("*/*.png"))
-    if len(chapter_images) != 30:
-        errors.append(f"ожидаются 30 PNG-иллюстраций, найдено {len(chapter_images)}")
-    for path in chapter_images:
+    check_numbering(errors)
+
+    images = sorted((ROOT / "assets" / "chapters").glob("*/*.png"))
+    images += sorted((ROOT / "assets" / "slides").glob("*.png"))
+    for path in images:
         try:
             width, height = png_size(path)
         except ValueError:
@@ -124,8 +179,8 @@ def main() -> None:
         print("\n".join(errors))
         sys.exit(1)
     print(
-        "OK: 15 глав, 30 PNG, Mermaid, навигация, локальные ссылки "
-        "и polnyy-tekst.md проверены"
+        "OK: 15 глав, нумерация, Mermaid, навигация, отсутствие растровых "
+        "иллюстраций, слайды, локальные ссылки и polnyy-tekst.md проверены"
     )
 
 
