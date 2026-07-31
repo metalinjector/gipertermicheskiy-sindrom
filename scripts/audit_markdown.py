@@ -15,7 +15,7 @@ from build_full_text import prepare
 
 ROOT = Path(__file__).resolve().parents[1]
 CHAPTERS = sorted((ROOT / "главы").glob("[0-9][0-9]-*.md"))
-ROOT_DOCS = [ROOT / "README.md", ROOT / "ИСТОЧНИКИ.md", ROOT / "СЛАЙДЫ.md"]
+ROOT_DOCS = [ROOT / "README.md", ROOT / "ИСТОЧНИКИ.md", ROOT / "СЛАЙДЫ.md", ROOT / "ИЛЛЮСТРАЦИИ.md"]
 IMAGE_RE = re.compile(r"!\[[^\]]*\]\(([^)]+)\)")
 LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)#]+)(?:#[^)]+)?\)")
 
@@ -113,11 +113,11 @@ def main() -> None:
         number = chapter.name[:2]
         if number != "00":
             # Растровых иллюстраций в главах больше нет: они вынесены в
-            # СЛАЙДЫ.md, в тексте остаются только Mermaid-схемы.
+            # ИЛЛЮСТРАЦИИ.md и СЛАЙДЫ.md, в тексте остаются только схемы.
             if IMAGE_RE.search(text):
                 errors.append(
                     f"{chapter}: в главах не должно быть растровых иллюстраций, "
-                    "их место — СЛАЙДЫ.md"
+                    "их место — ИЛЛЮСТРАЦИИ.md или СЛАЙДЫ.md"
                 )
             visual_summary = re.search(
                 r"<!-- visual-summary:start -->(.*?)<!-- visual-summary:end -->",
@@ -143,7 +143,9 @@ def main() -> None:
 
     check_numbering(errors)
 
-    for path in sorted((ROOT / "assets" / "slides").glob("*.png")):
+    images = sorted((ROOT / "assets" / "chapters").glob("*/*.png"))
+    images += sorted((ROOT / "assets" / "slides").glob("*.png"))
+    for path in images:
         try:
             width, height = png_size(path)
         except ValueError:
