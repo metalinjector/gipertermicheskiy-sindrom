@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Лихорадка ≥ 38 °C у младенца до 3 месяцев: два устоявшихся подхода</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">слева — традиционное правило; справа — возраст-стратифицированная тактика (AAP 2021, NICE NG143); внизу — общее для всех</text>
+<rect x="500" y="105" width="600" height="60" rx="14" fill="#f3f4f6" stroke="#6b7280" stroke-width="2.5" opacity="1.0"/>
+<text x="800.0" y="138.70000000000002" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#1f2937" text-anchor="middle" opacity="1.0">Ректальная T ≥ 38,0 °C у ребёнка младше 90 дней</text>
+<line x1="800" y1="165" x2="800" y2="190" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<polygon points="800,190.0 1190.0,255 800,320.0 410.0,255" fill="#fef3c7" stroke="#b45309" stroke-width="2.5" stroke-linejoin="round"/>
+<text x="800" y="248.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="middle" opacity="1.0">Плохо выглядит? Недоношенный? Младше 8 дней?</text>
+<text x="800" y="267.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="middle" opacity="1.0">Сопутствующая патология, антибиотики накануне, очаг инфекции?</text>
+<line x1="1190" y1="255" x2="1240" y2="255" stroke="#b91c1c" stroke-width="3" marker-end="url(#arr-red)" stroke-linecap="round"/>
+<text x="1200" y="245" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">да</text>
+<rect x="1240" y="190" width="320" height="130" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="2.5" opacity="1.0"/>
+<text x="1256" y="221.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">Полный объём — всегда</text>
+<text x="1256" y="249.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">ОАК, посев крови, ОАМ + посев</text>
+<text x="1256" y="268.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">мочи, ЛП, эмпирические</text>
+<text x="1256" y="288.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">антибиотики в/в,</text>
+<text x="1256" y="307.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">госпитализация</text>
+<line x1="800" y1="320" x2="800" y2="338" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<text x="812" y="333" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">нет — хорошо выглядящий доношенный ребёнок</text>
+<rect x="40" y="340" width="440" height="300" rx="14" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5" opacity="1.0"/>
+<text x="56" y="373.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">Традиционный подход</text>
+<text x="56" y="397.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">(отечественная практика)</text>
+<text x="56" y="428.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">Всем до 3 месяцев: полный септический</text>
+<text x="56" y="448.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">скрининг (ОАК, ОАМ и посев мочи, посев крови,</text>
+<text x="56" y="467.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">ЛП), госпитализация, эмпирические</text>
+<text x="56" y="487.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">антибиотики до результатов посевов.</text>
+<text x="56" y="510.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">Плюсы: максимальная безопасность, не зависит</text>
+<text x="56" y="530.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">от доступности ПКТ и наблюдения.</text>
+<text x="56" y="553.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">Минусы: избыточные ЛП и антибиотики у части</text>
+<text x="56" y="573.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">детей 1–3 мес с вирусной инфекцией.</text>
+<rect x="520" y="340" width="335" height="300" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<text x="534" y="372" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">8–21 день</text>
+<text x="534" y="400.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ОАМ, посев крови, ЛП, маркёры</text>
+<text x="534" y="419.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">воспаления</text>
+<text x="534" y="445.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Антибиотики в/в</text>
+<text x="534" y="470.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Госпитализация</text>
+<text x="534" y="496.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• (фактически = традиционный</text>
+<text x="534" y="515.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">подход)</text>
+<rect x="870" y="340" width="335" height="300" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="3" opacity="1.0"/>
+<text x="884" y="372" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">22–28 дней</text>
+<text x="884" y="400.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ОАМ, посев крови, маркёры (ПКТ,</text>
+<text x="884" y="419.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">АЧН, СРБ, T &gt; 38,5)</text>
+<text x="884" y="445.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ЛП — выполнить или отложить по</text>
+<text x="884" y="464.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">маркёрам</text>
+<text x="884" y="490.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Антибиотики — обычно;</text>
+<text x="884" y="509.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">госпитализация в большинстве</text>
+<text x="884" y="529.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">случаев</text>
+<rect x="1220" y="340" width="335" height="300" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="3" opacity="1.0"/>
+<text x="1234" y="372" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">29–60 (90) дней</text>
+<text x="1234" y="400.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ОАМ, посев крови, маркёры</text>
+<text x="1234" y="419.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">воспаления</text>
+<text x="1234" y="445.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Маркёры и ОАМ в норме → ЛП и</text>
+<text x="1234" y="464.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">антибиотики не рутинно,</text>
+<text x="1234" y="484.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">наблюдение 24–36 ч (возможно дома</text>
+<text x="1234" y="503.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">при надёжных родителях)</text>
+<text x="1234" y="529.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Отклонения → ЛП, антибиотики,</text>
+<text x="1234" y="548.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">госпитализация</text>
+<rect x="40" y="665" width="1520" height="150" rx="14" fill="#f3f4f6" stroke="#6b7280" stroke-width="2.5" opacity="1.0"/>
+<text x="56" y="698.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#6b7280" text-anchor="start" font-weight="bold" opacity="1.0">Обязательно при любом подходе</text>
+<text x="56" y="728.8000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Анализ и посев мочи (ИМВП — самая частая бактериальная инфекция этого возраста) • посев крови • прокальцитонин (лучший одиночный маркёр), АЧН, СРБ • повторный</text>
+<text x="56" y="748.3000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">осмотр: состояние может измениться за часы • при герпетическом подозрении — ацикловир</text>
+<text x="56" y="771.8000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Перегрев (укутывание, жаркое помещение, закрытый автомобиль) — диагноз исключения: температура нормализуется за 15–30 мин после устранения причины; при сомнениях</text>
+<text x="56" y="791.3000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">действует правило инфекции.</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Схема аудита 2026-10 к § 7.7. Источники: Pantell RH et al., AAP Clinical Practice Guideline, Pediatrics 2021; NICE NG143 (2019+). Локальный протокол имеет приоритет.</text>
+</svg>

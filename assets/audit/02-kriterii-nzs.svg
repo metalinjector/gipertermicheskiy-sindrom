@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Критерии НЗС: три сосуществующие системы</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">ни одна из них не является «критериями DSM-5»: в DSM-5 (2013) формального алгоритма нет, его описание согласовано с консенсусом 2011 года</text>
+<rect x="40" y="118" width="492" height="545" rx="16" fill="#fef3c7" stroke="#b45309" stroke-width="3" opacity="1.0"/>
+<text x="58" y="156" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="24" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">Levenson, 1985</text>
+<text x="58" y="182.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">классические клинические критерии</text>
+<text x="58" y="208.75" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">Большие (3):</text>
+<text x="58" y="235.85" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• лихорадка</text>
+<text x="58" y="260.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• ригидность</text>
+<text x="58" y="286.05" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• повышение КФК</text>
+<text x="58" y="311.15000000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">Малые (6):</text>
+<text x="58" y="338.25000000000006" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• тахикардия</text>
+<text x="58" y="363.3500000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• аномальное АД</text>
+<text x="58" y="388.4500000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• тахипноэ</text>
+<text x="58" y="413.5500000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• изменение сознания</text>
+<text x="58" y="438.65000000000015" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• потливость</text>
+<text x="58" y="463.75000000000017" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• лейкоцитоз</text>
+<text x="58" y="488.8500000000002" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">Диагноз вероятен:</text>
+<text x="58" y="515.9500000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">3 больших ИЛИ 2 больших + 4 малых</text>
+<text x="58" y="541.0500000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">Условие: приём нейролептика (или отмена</text>
+<text x="58" y="563.1500000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">дофаминергического препарата)</text>
+<rect x="554" y="118" width="492" height="545" rx="16" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3" opacity="1.0"/>
+<text x="572" y="156" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="24" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">DSM-IV-TR, приложение B</text>
+<text x="572" y="182.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">исследовательские критерии (чаще всего ошибочно</text>
+<text x="572" y="200.75" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">цитируются как «DSM-5»)</text>
+<text x="572" y="227.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">А. Обязательно оба:</text>
+<text x="572" y="254.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• тяжёлая мышечная ригидность</text>
+<text x="572" y="279.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• повышение температуры</text>
+<text x="572" y="304.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">на фоне приёма нейролептика</text>
+<text x="572" y="329.90000000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">Б. Два и более из:</text>
+<text x="572" y="357.00000000000006" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• потливость • дисфагия • тремор</text>
+<text x="572" y="382.1000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• недержание • изменение сознания</text>
+<text x="572" y="407.2000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• мутизм • тахикардия</text>
+<text x="572" y="432.3000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• повышенное или лабильное АД</text>
+<text x="572" y="457.40000000000015" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• лейкоцитоз</text>
+<text x="572" y="482.50000000000017" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• лабораторные признаки повреждения мышц</text>
+<text x="572" y="504.6000000000002" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">(КФК)</text>
+<text x="572" y="529.7000000000002" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">В. Не объясняется другим веществом,</text>
+<text x="572" y="551.8000000000002" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">неврологическим или соматическим</text>
+<text x="572" y="573.9000000000002" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">заболеванием</text>
+<rect x="1068" y="118" width="492" height="545" rx="16" fill="#dcfce7" stroke="#15803d" stroke-width="3" opacity="1.0"/>
+<text x="1086" y="156" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="24" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">Консенсус 2011 (Gurrera et al.)</text>
+<text x="1086" y="182.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">международный экспертный консенсус, метод Дельфи;</text>
+<text x="1086" y="200.75" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">баллы приоритета (сумма 100)</text>
+<text x="1086" y="227.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• Антагонист дофамина / отмена агониста за</text>
+<text x="1086" y="249.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">72 ч — 20</text>
+<text x="1086" y="274.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• Гипертермия &gt; 38,0 °C при ≥ 2 измерениях —</text>
+<text x="1086" y="296.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">18</text>
+<text x="1086" y="321.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• Ригидность — 17</text>
+<text x="1086" y="347.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• Изменение психического статуса — 13</text>
+<text x="1086" y="372.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• КФК ≥ 4 × ВГН — 10</text>
+<text x="1086" y="397.20000000000005" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• Вегетативная лабильность (≥ 2 из: АД +25 %,</text>
+<text x="1086" y="419.30000000000007" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">колебания АД ≥ 20/25 мм рт. ст., потливость,</text>
+<text x="1086" y="441.40000000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">недержание) — 10</text>
+<text x="1086" y="466.50000000000006" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• Гиперметаболизм: ЧСС ≥ 125 % И ЧД ≥ 150 %</text>
+<text x="1086" y="488.6000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">от исходных — 5</text>
+<text x="1086" y="513.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">• Исключены инфекционные, токсические,</text>
+<text x="1086" y="535.8000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">метаболические, неврологические причины — 7</text>
+<text x="1086" y="560.9000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">Валидация (Gurrera, 2017): порог ≥ 74</text>
+<text x="1086" y="583.0000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">баллов</text>
+<rect x="40" y="690" width="1520" height="130" rx="14" fill="#f3f4f6" stroke="#6b7280" stroke-width="2.5" opacity="1.0"/>
+<text x="56" y="724.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#6b7280" text-anchor="start" font-weight="bold" opacity="1.0">Для неотложной помощи</text>
+<text x="56" y="756.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Ни одна система не требует «полного набора» признаков, чтобы начать лечение: при обоснованном подозрении (нейролептик + ригидность +</text>
+<text x="56" y="776.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">гипертермия/вегетативная нестабильность) триггер отменяют и начинают охлаждение и поддерживающую терапию немедленно (§ 9.6.2). Шкалы нужны для</text>
+<text x="56" y="797.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">документирования, дифференциальной диагностики с серотониновым синдромом и исследований.</text>
+<text x="40" y="862.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Схема аудита 2026-10 к § 7.8.1. Источники: Levenson JL, Am J Psychiatry 1985; DSM-IV-TR (2000); Gurrera RJ et al., J Clin Psychiatry 2011; Gurrera RJ et al., J Clin</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Psychopharmacol 2017.</text>
+</svg>
