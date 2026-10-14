@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Злокачественная гипертермия: что появляется раньше, а что — позже</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">частоты по регистру NAMHR 1987–2006 (Larach et al., 2010, n = 286); порядок признаков у конкретного пациента варьирует</text>
+<line x1="70" y1="410" x2="1540" y2="410" stroke="#4b5563" stroke-width="5" marker-end="url(#arr)" stroke-linecap="round"/>
+<text x="70" y="446" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="start" opacity="1.0">минуты от экспозиции к триггеру</text>
+<text x="1500" y="446" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="end" opacity="1.0">часы</text>
+<rect x="70" y="110" width="500" height="260" rx="16" fill="#fee2e2" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<text x="86" y="146" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="21" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">РАННИЕ (диагноз ставят здесь)</text>
+<text x="86" y="180.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">↑ EtCO₂ при неизменной вентиляции</text>
+<text x="86" y="205.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">самый частый признак (&gt; 90 % за время криза) и самый</text>
+<text x="86" y="224.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">частый ПЕРВЫЙ признак</text>
+<text x="86" y="254.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Необъяснимая тахикардия</text>
+<text x="86" y="279.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">≈ 70 % случаев; нередко одновременно с ростом EtCO₂</text>
+<text x="86" y="309.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Тризм (спазм жевательных мышц)</text>
+<text x="86" y="334.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">после сукцинилхолина; изолированный тризм — повод</text>
+<text x="86" y="354.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">для усиленного мониторинга</text>
+<line x1="320.0" y1="370" x2="320.0" y2="404" stroke="#b91c1c" stroke-width="3" stroke-linecap="round"/>
+<circle cx="320.0" cy="410" r="9" fill="#fee2e2" stroke="#b91c1c" stroke-width="3"/>
+<rect x="590" y="110" width="500" height="260" rx="16" fill="#fef3c7" stroke="#b45309" stroke-width="3" opacity="1.0"/>
+<text x="606" y="146" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="21" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">РАЗВЁРНУТЫЙ КРИЗ</text>
+<text x="606" y="180.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Генерализованная ригидность</text>
+<text x="606" y="205.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">«пациент как доска», несмотря на миорелаксанты</text>
+<text x="606" y="234.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Смешанный ацидоз, гиперкалиемия</text>
+<text x="606" y="260.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">pH &lt; 7,25, BE &lt; −8; K⁺ &gt; 6 ммоль/л → аритмии</text>
+<text x="606" y="289.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Быстрый подъём температуры</text>
+<text x="606" y="315.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">≈ 65 % случаев; может расти ~1 °C каждые 5–10 мин — но</text>
+<text x="606" y="334.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">это ПОЗДНИЙ признак</text>
+<line x1="840.0" y1="370" x2="840.0" y2="404" stroke="#b45309" stroke-width="3" stroke-linecap="round"/>
+<circle cx="840.0" cy="410" r="9" fill="#fef3c7" stroke="#b45309" stroke-width="3"/>
+<rect x="1110" y="110" width="430" height="260" rx="16" fill="#ede9fe" stroke="#6d28d9" stroke-width="3" opacity="1.0"/>
+<text x="1126" y="146" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="21" fill="#6d28d9" text-anchor="start" font-weight="bold" opacity="1.0">ПОЗДНИЕ / ОСЛОЖНЕНИЯ</text>
+<text x="1126" y="180.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Миоглобинурия, ↑ КФК</text>
+<text x="1126" y="205.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">пик КФК через 12–24 ч; тёмная моча</text>
+<text x="1126" y="234.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">ДВС-синдром, ОПП, отёк мозга</text>
+<text x="1126" y="260.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">признаки фульминантного течения</text>
+<text x="1126" y="289.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Рецидив (≈ 20 % случаев)</text>
+<text x="1126" y="315.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">наблюдение в ОРИТ ≥ 24 ч</text>
+<line x1="1325.0" y1="370" x2="1325.0" y2="404" stroke="#6d28d9" stroke-width="3" stroke-linecap="round"/>
+<circle cx="1325.0" cy="410" r="9" fill="#ede9fe" stroke="#6d28d9" stroke-width="3"/>
+<rect x="70" y="470" width="720" height="330" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="86" y="504.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="21" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">Действия в первые 10 минут (§ 9.6.1)</text>
+<text x="86" y="538.1999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">1. СТОП триггер: отключить ингаляционный анестетик, 100 % O₂ с потоком</text>
+<text x="86" y="558.9999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">&gt; 10 л/мин, угольные фильтры на оба колена контура, безтриггерная</text>
+<text x="86" y="579.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">анестезия</text>
+<text x="86" y="604.5999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">2. Позвать помощь (5–6 человек), взять дантролен</text>
+<text x="86" y="629.3999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">3. Дантролен 2,5 мг/кг в/в быстро; повторять до ответа (снижение EtCO₂,</text>
+<text x="86" y="650.1999999999998" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">ригидности, ЧСС); суммарно может потребоваться &gt; 10 мг/кг</text>
+<text x="86" y="674.9999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">4. Гипервентиляция, охлаждение, коррекция K⁺ и ацидоза, защита почек,</text>
+<text x="86" y="695.7999999999998" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">мониторинг</text>
+<rect x="820" y="470" width="720" height="330" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="2.5" opacity="1.0"/>
+<text x="836" y="504.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="21" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">Типичные ошибки</text>
+<text x="836" y="538.1999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Ждать подъёма температуры, чтобы «подтвердить» диагноз</text>
+<text x="836" y="562.9999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Списывать рост EtCO₂ на «гиповентиляцию» и просто увеличить</text>
+<text x="836" y="583.7999999999998" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">минутный объём, не проверив остальное</text>
+<text x="836" y="608.5999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Тратить время на замену наркозного аппарата вместо фильтров и</text>
+<text x="836" y="629.3999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">высокого потока</text>
+<text x="836" y="654.1999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Вводить блокаторы кальциевых каналов (верапамил, дилтиазем) на фоне</text>
+<text x="836" y="674.9999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">дантролена — тяжёлая гиперкалиемия и остановка кровообращения (MHAUS)</text>
+<text x="836" y="699.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Прекратить наблюдение раньше 24 ч — риск рецидива</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Схема аудита 2026-10 к § 4.2.1, § 5.4.2, § 7.8.3, § 9.7.3. Шкала CGS (Larach, 1994): ≥ 50 баллов — «MH почти несомненна»; в остром периоде диагноз клинический, баллов не ждут.</text>
+</svg>

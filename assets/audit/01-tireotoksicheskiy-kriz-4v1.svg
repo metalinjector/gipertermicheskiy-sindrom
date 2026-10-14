@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Тиреотоксический криз: «блокада 4 в 1» — порядок и «кризовые» дозы</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">по рекомендациям ATA 2016; диагноз клинический — лечение начинают, не дожидаясь результатов ТТГ и свТ4/Т3</text>
+<rect x="40" y="110" width="1520" height="94" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="2.5" opacity="1.0"/>
+<text x="56" y="141.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">Подозрение: тиреотоксикоз в анамнезе (Грейвс, узловой зоб, отмена тиреостатика) + лихорадка, тахикардия &gt; 130/мин (часто ФП), делирий/возбуждение,</text>
+<text x="56" y="163.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">рвота/диарея/желтуха, сердечная недостаточность. Формализация: BWPS ≥ 45 баллов (25–44 — «назревающий криз») или критерии JTA (TS1/TS2).</text>
+<text x="56" y="185.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="17" fill="#1f2937" text-anchor="start" opacity="1.0">Уровень гормонов НЕ отличает криз от неосложнённого тиреотоксикоза.</text>
+<rect x="40" y="230" width="355" height="300" rx="16" fill="#fee2e2" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<text x="56" y="266" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="22" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">1. Блокада синтеза</text>
+<text x="56" y="292" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">t = 0 — первый шаг</text>
+<text x="56" y="322.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Пропилтиоурацил: 500–1000 мг</text>
+<text x="56" y="342.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">нагрузочно, затем по 250 мг</text>
+<text x="56" y="363.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">каждые 4 ч (предпочтителен в</text>
+<text x="56" y="384.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">первые дни: дополнительно</text>
+<text x="56" y="405.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">тормозит конверсию Т4 → Т3)</text>
+<text x="56" y="434.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">или тиамазол 60–80 мг/сут дробно</text>
+<text x="56" y="454.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">(каждые 4–6 ч)</text>
+<text x="56" y="483.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Нет глотания — через зонд или</text>
+<text x="56" y="504.40000000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">ректально</text>
+<line x1="399" y1="380.0" x2="424" y2="380.0" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="428" y="230" width="355" height="300" rx="16" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3" opacity="1.0"/>
+<text x="444" y="266" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="22" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">2. Блокада секреции</text>
+<text x="444" y="292" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">t ≥ +1 ч — строго ПОСЛЕ тиреостатика</text>
+<text x="444" y="322.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Неорганический йод: раствор</text>
+<text x="444" y="342.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Люголя 8–10 капель каждые 6–8 ч</text>
+<text x="444" y="363.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">или насыщенный р-р KI 5 капель</text>
+<text x="444" y="384.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">каждые 6 ч</text>
+<text x="444" y="413.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Раньше тиреостатика — йод станет</text>
+<text x="444" y="434.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">«топливом» для синтеза новых</text>
+<text x="444" y="454.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">гормонов</text>
+<line x1="787" y1="380.0" x2="812" y2="380.0" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="816" y="230" width="355" height="300" rx="16" fill="#dcfce7" stroke="#15803d" stroke-width="3" opacity="1.0"/>
+<text x="832" y="266" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="22" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">3. Блокада симптомов</text>
+<text x="832" y="292" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">параллельно, с первых минут</text>
+<text x="832" y="322.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Пропранолол 60–80 мг каждые 4–6 ч</text>
+<text x="832" y="342.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">внутрь (в высоких дозах также</text>
+<text x="832" y="363.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">снижает конверсию Т4 → Т3)</text>
+<text x="832" y="392.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">В/в: пропранолол 0,5–1 мг</text>
+<text x="832" y="413.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">медленно под ЭКГ, повторно; или</text>
+<text x="832" y="434.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">эсмолол 250–500 мкг/кг, затем</text>
+<text x="832" y="454.79999999999995" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">50–100 мкг/кг/мин</text>
+<text x="832" y="483.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">СН, бронхоспазм — осторожно,</text>
+<text x="832" y="504.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">короткодействующий препарат</text>
+<line x1="1175" y1="380.0" x2="1200" y2="380.0" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1204" y="230" width="355" height="300" rx="16" fill="#ede9fe" stroke="#6d28d9" stroke-width="3" opacity="1.0"/>
+<text x="1220" y="266" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="22" fill="#6d28d9" text-anchor="start" font-weight="bold" opacity="1.0">4. Глюкокортикоид</text>
+<text x="1220" y="292" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">параллельно</text>
+<text x="1220" y="322.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Гидрокортизон 300 мг в/в, затем</text>
+<text x="1220" y="342.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">по 100 мг каждые 8 ч</text>
+<text x="1220" y="371.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">или дексаметазон 2 мг каждые 6 ч</text>
+<text x="1220" y="400.40000000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">Цель: блокада конверсии Т4 → Т3 и</text>
+<text x="1220" y="421.20000000000005" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">профилактика относительной</text>
+<text x="1220" y="442.00000000000006" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">надпочечниковой недостаточности</text>
+<line x1="60" y1="575" x2="1540" y2="575" stroke="#4b5563" stroke-width="4" marker-end="url(#arr)" stroke-linecap="round"/>
+<line x1="60" y1="565" x2="60" y2="585" stroke="#4b5563" stroke-width="3" stroke-linecap="round"/>
+<text x="60" y="607" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">0 мин</text>
+<line x1="468" y1="565" x2="468" y2="585" stroke="#4b5563" stroke-width="3" stroke-linecap="round"/>
+<text x="468" y="607" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">≥ 60 мин: йод</text>
+<line x1="1300" y1="565" x2="1300" y2="585" stroke="#4b5563" stroke-width="3" stroke-linecap="round"/>
+<text x="1300" y="607" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">часы: оценка ответа</text>
+<rect x="40" y="625" width="760" height="200" rx="14" fill="#f3f4f6" stroke="#6b7280" stroke-width="2.5" opacity="1.0"/>
+<text x="56" y="659.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#6b7280" text-anchor="start" font-weight="bold" opacity="1.0">Плюс — обязательная поддержка</text>
+<text x="56" y="691.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Активное охлаждение физическими методами и парацетамол; салицилаты НЕ</text>
+<text x="56" y="711.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">применять (вытесняют Т4/Т3 из связи с белками)</text>
+<text x="56" y="736.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Инфузия с глюкозой, электролиты, поиск и лечение триггера (инфекция,</text>
+<text x="56" y="757.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">операция, ДКА, отмена тиреостатика)</text>
+<text x="56" y="782.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Рефрактерное течение: холестирамин 4 г × 4 р/сут, плазмаферез; по</text>
+<text x="56" y="803.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">стабилизации — вопрос о тиреоидэктомии</text>
+<rect x="830" y="625" width="730" height="200" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="2.5" opacity="1.0"/>
+<text x="846" y="659.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">Чего не делать</text>
+<text x="846" y="691.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Йод до тиреостатика или без него</text>
+<text x="846" y="715.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Салицилаты «для снижения температуры»</text>
+<text x="846" y="740.5999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Дозы планового гипертиреоза (ПТУ 100–150 мг × 3, тиамазол 20–30 мг/сут)</text>
+<text x="846" y="761.3999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">— при кризе недостаточны</text>
+<text x="846" y="786.1999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Ждать гормоны, чтобы начать лечение; трактовать высокий свТ4 как</text>
+<text x="846" y="806.9999999999999" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">«критерий тяжести»</text>
+<text x="40" y="862.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Летальность: без лечения исторически ≈ 100 %, при современной терапии ≈ 10 % (регистр Японии, 2012), в сериях 8–25 % (ATA 2016). Схема аудита 2026-10 к § 4.2.3, § 7.4.1, § 9.6.5;</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">дозы сверять с локальным протоколом и инструкцией.</text>
+</svg>

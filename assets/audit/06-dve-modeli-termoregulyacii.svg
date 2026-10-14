@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Две модели терморегуляции: «установочная точка» и «точка равновесия»</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">классическая дидактическая схема (слева) и современное описание (справа): Romanovsky, 2007; Morrison &amp; Nakamura, 2019</text>
+<rect x="40" y="105" width="740" height="640" rx="18" fill="#f3f4f6" stroke="#6b7280" stroke-width="3" opacity="1.0"/>
+<text x="410" y="140" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="22" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Классическая модель: единая установочная точка</text>
+<rect x="70" y="165" width="200" height="80" rx="14" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5" opacity="1.0"/>
+<text x="170.0" y="197.39999999999998" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="middle" opacity="1.0">Терморецепторы</text>
+<text x="170.0" y="218.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="middle" opacity="1.0">кожи и ядра</text>
+<line x1="270" y1="205" x2="310" y2="205" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="310" y="150" width="260" height="110" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="2.5" opacity="1.0"/>
+<text x="440.0" y="185.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#b45309" text-anchor="middle" font-weight="bold" opacity="1.0">Компаратор POA</text>
+<text x="440.0" y="215.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="middle" opacity="1.0">T_core сравнивается с</text>
+<text x="440.0" y="234.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="middle" opacity="1.0">уставкой 37 °C</text>
+<line x1="570" y1="205" x2="600" y2="205" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="600" y="150" width="160" height="110" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="680.0" y="188.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="middle" opacity="1.0">Эффекторы:</text>
+<text x="680.0" y="207.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="middle" opacity="1.0">пот, сосуды,</text>
+<text x="680.0" y="227.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="middle" opacity="1.0">дрожь, БЖТ</text>
+<path d="M 680 260 L 680 300 L 170 300 L 170 245" fill="none" stroke="#4b5563" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="8 6" stroke-linejoin="round"/>
+<text x="425" y="292" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#4b5563" text-anchor="middle" opacity="1.0">обратная связь: T_core</text>
+<rect x="70" y="330" width="330" height="180" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="2.5" opacity="1.0"/>
+<text x="86" y="362.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">Лихорадка</text>
+<text x="86" y="391.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">PGE₂ сдвигает уставку вверх</text>
+<text x="86" y="411.09999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">(например, 39 °C); система</text>
+<text x="86" y="430.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">исправна и «защищает» новую</text>
+<text x="86" y="450.09999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">уставку: озноб, вазоконстрикция,</text>
+<text x="86" y="469.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">холодно</text>
+<rect x="430" y="330" width="330" height="180" rx="14" fill="#ede9fe" stroke="#6d28d9" stroke-width="2.5" opacity="1.0"/>
+<text x="446" y="362.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#6d28d9" text-anchor="start" font-weight="bold" opacity="1.0">Гипертермия</text>
+<text x="446" y="391.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">Уставка прежняя (37 °C);</text>
+<text x="446" y="411.09999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">теплоприток или теплопродукция</text>
+<text x="446" y="430.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">превышают мощность теплоотдачи</text>
+<text x="446" y="450.09999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">— система «не справляется»;</text>
+<text x="446" y="469.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">антипиретики бесполезны</text>
+<text x="70" y="545.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Сильная сторона: простое объяснение, почему антипиретик работает при</text>
+<text x="70" y="564.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">лихорадке и не работает при тепловом ударе. Слабая сторона: единого</text>
+<text x="70" y="584.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">«эталона температуры» в мозге не найдено; температурно-нечувствительные</text>
+<text x="70" y="603.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">нейроны не доказаны как носители уставки; эффекторы включаются при разных</text>
+<text x="70" y="623.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">температурах, а не по одному сигналу «ошибки».</text>
+<rect x="820" y="105" width="740" height="640" rx="18" fill="#f3f4f6" stroke="#6b7280" stroke-width="3" opacity="1.0"/>
+<text x="1190" y="140" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Современная модель: независимые эффекторные контуры</text>
+<rect x="850" y="165" width="170" height="80" rx="14" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5" opacity="1.0"/>
+<text x="935.0" y="189.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">Кожа: TRPM8</text>
+<text x="935.0" y="207.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">(холод), TRPV1 и</text>
+<text x="935.0" y="225.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">др. (тепло)</text>
+<line x1="1020" y1="205" x2="1060" y2="205" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1060" y="165" width="150" height="80" rx="14" fill="#ccfbf1" stroke="#0f766e" stroke-width="2.5" opacity="1.0"/>
+<text x="1135.0" y="189.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">Латеральное</text>
+<text x="1135.0" y="207.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">парабрахиальное</text>
+<text x="1135.0" y="225.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">ядро</text>
+<line x1="1210" y1="205" x2="1250" y2="205" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1250" y="150" width="280" height="110" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="2.5" opacity="1.0"/>
+<text x="1390.0" y="179.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">POA: теплочувствительные</text>
+<text x="1390.0" y="198.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">нейроны (кандидат — TRPM2) +</text>
+<text x="1390.0" y="216.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">входы с периферии; PGE₂</text>
+<text x="1390.0" y="234.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="middle" opacity="1.0">действует здесь</text>
+<rect x="850" y="300" width="134" height="76" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="917.0" y="329.45000000000005" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">Потоотделение</text>
+<text x="917.0" y="350.35" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">порог ≈ 37,0</text>
+<line x1="917" y1="278" x2="917" y2="296" stroke="#4b5563" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="992" y="300" width="134" height="76" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="1059.0" y="321.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">Кожный</text>
+<text x="1059.0" y="337.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">кровоток</text>
+<text x="1059.0" y="358.8" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">порог ≈ 36,9</text>
+<line x1="1059" y1="278" x2="1059" y2="296" stroke="#4b5563" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1134" y="300" width="134" height="76" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="1201.0" y="329.45000000000005" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">Дрожь</text>
+<text x="1201.0" y="350.35" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">порог ≈ 36,5</text>
+<line x1="1201" y1="278" x2="1201" y2="296" stroke="#4b5563" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1276" y="300" width="134" height="76" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="1343.0" y="329.45000000000005" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">БЖТ-термогенез</text>
+<text x="1343.0" y="350.35" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">порог ≈ 36,7</text>
+<line x1="1343" y1="278" x2="1343" y2="296" stroke="#4b5563" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1418" y="300" width="134" height="76" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="1485.0" y="329.45000000000005" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">Поведение</text>
+<text x="1485.0" y="350.35" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="middle" opacity="1.0">самый ранний</text>
+<line x1="1485" y1="278" x2="1485" y2="296" stroke="#4b5563" stroke-width="2" marker-end="url(#arr)" stroke-linecap="round"/>
+<line x1="917" y1="278" x2="1485" y2="278" stroke="#4b5563" stroke-width="2.5" stroke-linecap="round"/>
+<line x1="1390" y1="260" x2="1390" y2="278" stroke="#4b5563" stroke-width="2.5" stroke-linecap="round"/>
+<text x="850" y="400.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Каждый контур имеет собственный порог и собственный афферентный вход;</text>
+<text x="850" y="419.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">стабильная T_core — не результат сравнения с эталоном, а точка равновесия</text>
+<text x="850" y="439.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">(balance point) между контурами теплоотдачи и теплопродукции. Пороговые</text>
+<text x="850" y="458.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">значения на схеме условны.</text>
+<rect x="850" y="470" width="330" height="150" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="2.5" opacity="1.0"/>
+<text x="866" y="502.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">Лихорадка</text>
+<text x="866" y="531.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">PGE₂ в POA согласованно</text>
+<text x="866" y="551.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">сдвигает пороги ВСЕХ контуров</text>
+<text x="866" y="570.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">вверх — поэтому внешне это</text>
+<text x="866" y="590.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">выглядит как «новая уставка»</text>
+<rect x="1210" y="470" width="330" height="150" rx="14" fill="#ede9fe" stroke="#6d28d9" stroke-width="2.5" opacity="1.0"/>
+<text x="1226" y="502.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#6d28d9" text-anchor="start" font-weight="bold" opacity="1.0">Гипертермия</text>
+<text x="1226" y="531.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">Пороги не изменены; мощность</text>
+<text x="1226" y="551.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">контуров теплоотдачи исчерпана</text>
+<text x="1226" y="570.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">(влажность, дегидратация,</text>
+<text x="1226" y="590.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">препараты) или теплопродукция</text>
+<text x="1226" y="609.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">запредельна (MH, нагрузка)</text>
+<text x="850" y="650.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Сильная сторона: объясняет, почему при лихорадке озноб и вазоконстрикция</text>
+<text x="850" y="669.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">включаются раньше, чем «сработал бы» единый термостат, и почему препараты</text>
+<text x="850" y="689.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">могут выбивать отдельные контуры (антихолинергики — пот, вазоконстрикторы</text>
+<text x="850" y="708.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">— кожный кровоток).</text>
+<rect x="40" y="770" width="1520" height="70" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="2.5" opacity="1.0"/>
+<text x="800.0" y="797.4000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="middle" opacity="1.0">Клинический вывод одинаков в обеих моделях: при лихорадке пороги/уставка сдвинуты и антипиретик имеет смысл; при гипертермии они не сдвинуты — помогает</text>
+<text x="800.0" y="818.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="middle" opacity="1.0">только физическое охлаждение, устранение триггера и дантролен при MH.</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Схема аудита 2026-10 к § 2.1.1 (примечание «Две модели одного термостата»).</text>
+</svg>

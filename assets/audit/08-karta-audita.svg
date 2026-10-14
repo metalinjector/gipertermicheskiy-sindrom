@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Карта аудита (октябрь 2026): что и где изменено</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">правки внесены только в главы/*.md; polnyy-tekst.md и PDF не пересобирались; подробности — АУДИТ-2026-10.md</text>
+<rect x="40" y="112" width="292" height="226" rx="12" fill="#ffffff" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<circle cx="66" cy="138" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="66" y="144" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">1</text>
+<text x="90" y="143.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Введение и определения</text>
+<rect x="52" y="170" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="64" y="185.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">§ 1.4.6 перенесён и переписан</text>
+<rect x="52" y="203" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="64" y="218.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">§ 1.4.4 «необратимо» снято</text>
+<rect x="52" y="236" width="268" height="29" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+<text x="64" y="251.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">§ 1.3.2 антипиретики и исход</text>
+<rect x="52" y="269" width="268" height="29" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+<text x="64" y="284.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">§ 1.1.4 IVCT vs CHCT</text>
+<rect x="347" y="112" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="373" cy="138" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="373" y="144" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">2</text>
+<text x="397" y="143.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Физиология</text>
+<rect x="359" y="170" width="268" height="29" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="185.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">две модели терморегуляции</text>
+<rect x="359" y="203" width="268" height="29" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="218.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">TRPM2, парабрахиальный путь</text>
+<rect x="654" y="112" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="680" cy="138" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="680" y="144" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">3</text>
+<text x="704" y="143.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Патофизиология</text>
+<rect x="666" y="170" width="268" height="29" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5" opacity="1.0"/>
+<text x="678" y="185.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">выводы: порог → зона риска</text>
+<rect x="666" y="203" width="268" height="29" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+<text x="678" y="218.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">кишечная ось, HSIC</text>
+<rect x="961" y="112" width="292" height="226" rx="12" fill="#ffffff" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<circle cx="987" cy="138" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="987" y="144" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">4</text>
+<text x="1011" y="143.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Этиология</text>
+<rect x="973" y="170" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="185.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">летальность тиреотокс. криза</text>
+<rect x="973" y="203" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="218.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">диагноз криза клинический</text>
+<rect x="973" y="236" width="268" height="29" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="251.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">heat injury (ACSM 2023)</text>
+<rect x="973" y="269" width="268" height="29" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="284.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">годы ссылок = ИСТОЧНИКИ</text>
+<rect x="1268" y="112" width="292" height="226" rx="12" fill="#ffffff" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<circle cx="1294" cy="138" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="1294" y="144" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">5</text>
+<text x="1318" y="143.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Клиническая картина</text>
+<rect x="1280" y="170" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="1292" y="185.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">порядок ранних признаков MH</text>
+<rect x="1280" y="203" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="1292" y="218.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">судороги при T &gt; 40 °C</text>
+<rect x="1280" y="236" width="268" height="29" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5" opacity="1.0"/>
+<text x="1292" y="251.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">«несовместимо с жизнью»</text>
+<rect x="40" y="346" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="66" cy="372" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="66" y="378" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">6</text>
+<text x="90" y="377.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Диагностика</text>
+<rect x="52" y="404" width="268" height="29" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5" opacity="1.0"/>
+<text x="64" y="419.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">«ЛДГ всегда повышена»</text>
+<rect x="347" y="346" width="292" height="226" rx="12" fill="#ffffff" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<circle cx="373" cy="372" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="373" y="378" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">7</text>
+<text x="397" y="377.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Дифдиагностика</text>
+<rect x="359" y="404" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="419.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">единицы свТ4/Т3 → клиника</text>
+<rect x="359" y="437" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="452.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">критерии НЗС</text>
+<rect x="359" y="470" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="485.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">шкала CGS</text>
+<rect x="359" y="503" width="268" height="29" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="518.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">младенцы &lt; 3 мес: AAP 2021</text>
+<rect x="359" y="536" width="268" height="29" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="551.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">BWPS vs критерии JTA</text>
+<rect x="654" y="346" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="680" cy="372" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="680" y="378" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">8</text>
+<text x="704" y="377.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Осложнения</text>
+<text x="668" y="418" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">— без правок</text>
+<rect x="666" y="430" width="268" height="46" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+<text x="678" y="445.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">диурез 1–2 vs 3 мл/кг/ч — в</text>
+<text x="678" y="461.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">отчёте</text>
+<rect x="961" y="346" width="292" height="226" rx="12" fill="#ffffff" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<circle cx="987" cy="372" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="987" y="378" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">9</text>
+<text x="1011" y="377.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Неотложная помощь</text>
+<rect x="973" y="404" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="419.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">дозы при тиреотокс. кризе</text>
+<rect x="973" y="437" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="452.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">БКК + дантролен — нельзя</text>
+<rect x="973" y="470" width="268" height="29" rx="8" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="485.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">дозы 2-й линии (ESETT)</text>
+<rect x="973" y="503" width="268" height="29" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="518.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">TACO; норадреналин 1-я линия</text>
+<rect x="1268" y="346" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="1294" cy="372" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="1294" y="378" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">10</text>
+<text x="1318" y="377.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Профилактика</text>
+<text x="1282" y="418" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">— без правок</text>
+<rect x="40" y="580" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="66" cy="606" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="66" y="612" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">11</text>
+<text x="90" y="611.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Прогноз и исходы</text>
+<rect x="52" y="638" width="268" height="46" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+<text x="64" y="653.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">отдалённый СС- и почечный</text>
+<text x="64" y="669.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">риск</text>
+<rect x="347" y="580" width="292" height="226" rx="12" fill="#ffffff" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<circle cx="373" cy="606" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="373" y="612" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">12</text>
+<text x="397" y="611.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Особые категории</text>
+<rect x="359" y="638" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="653.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">диазепам в таблице доз</text>
+<rect x="359" y="671" width="268" height="29" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="371" y="686.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">целевая T у беременных</text>
+<rect x="654" y="580" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="680" cy="606" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="680" y="612" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">13</text>
+<text x="704" y="611.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Исследования</text>
+<text x="668" y="652" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">— без правок</text>
+<rect x="666" y="664" width="268" height="46" rx="8" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5" opacity="1.0"/>
+<text x="678" y="679.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">ссылки 2025–26 не</text>
+<text x="678" y="695.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">верифицированы</text>
+<rect x="961" y="580" width="292" height="226" rx="12" fill="#ffffff" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<circle cx="987" cy="606" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="987" y="612" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">14</text>
+<text x="1011" y="611.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Клинические случаи</text>
+<rect x="973" y="638" width="268" height="46" rx="8" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="985" y="653.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">случай 5: диазепам только при</text>
+<text x="985" y="669.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#1f2937" text-anchor="start" opacity="1.0">приступе</text>
+<rect x="1268" y="580" width="292" height="226" rx="12" fill="#ffffff" stroke="#6b7280" stroke-width="2" opacity="1.0"/>
+<circle cx="1294" cy="606" r="16" fill="#1f2937" stroke="#1f2937" stroke-width="2.5"/>
+<text x="1294" y="612" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" opacity="1.0">15</text>
+<text x="1318" y="611.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">Контроль знаний</text>
+<text x="1282" y="652" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">— без правок</text>
+<rect x="40" y="812" width="26" height="18" rx="5" fill="#fee2e2" stroke="#b91c1c" stroke-width="1.5" opacity="1.0"/>
+<text x="74" y="826" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="start" opacity="1.0">исправлена ошибка (уверенность 100 %)</text>
+<rect x="414.80000000000007" y="812" width="26" height="18" rx="5" fill="#fef3c7" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+<text x="448.80000000000007" y="826" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="start" opacity="1.0">отмечены разные устоявшиеся мнения</text>
+<rect x="776.5100000000001" y="812" width="26" height="18" rx="5" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+<text x="810.5100000000001" y="826" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="start" opacity="1.0">добавлена современная тенденция</text>
+<rect x="1115.4" y="812" width="26" height="18" rx="5" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5" opacity="1.0"/>
+<text x="1149.4" y="826" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="14" fill="#1f2937" text-anchor="start" opacity="1.0">стиль / формулировка / согласованность</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Все схемы аудита: assets/audit/*.svg (источник) и *.png (экспорт resvg, 2400 × 1350).</text>
+</svg>

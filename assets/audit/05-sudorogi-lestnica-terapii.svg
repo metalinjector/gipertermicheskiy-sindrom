@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Судороги на фоне гипертермии: лестница терапии и дозы</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">AES 2016 / ESETT 2019 / RAMPART 2012; охлаждение и поиск причины продолжаются параллельно на каждой ступени</text>
+<rect x="40" y="96" width="1520" height="40" rx="10" fill="#fee2e2" stroke="#b91c1c" stroke-width="2" opacity="1.0"/>
+<text x="800" y="123" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#b91c1c" text-anchor="middle" font-weight="bold" opacity="1.0">Каждая следующая ступень — только если приступ ПРОДОЛЖАЕТСЯ или повторяется без восстановления сознания</text>
+<rect x="40" y="160" width="355" height="330" rx="14" fill="#f3f4f6" stroke="#6b7280" stroke-width="3" opacity="1.0"/>
+<text x="54" y="194.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#6b7280" text-anchor="start" font-weight="bold" opacity="1.0">0–5 мин: стабилизация</text>
+<text x="54" y="226.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• ABC, боковое положение, O₂, SpO₂,</text>
+<text x="54" y="246.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">ЭКГ</text>
+<text x="54" y="273.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Глюкоза крови; тиамин при</text>
+<text x="54" y="293.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">подозрении на дефицит</text>
+<text x="54" y="320.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• T_core ректально; охлаждение НЕ</text>
+<text x="54" y="340.75" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">прерывать — судороги сами греют</text>
+<text x="54" y="367.90000000000003" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Поиск причины: нейроинфекция,</text>
+<text x="54" y="388.05" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">гипонатриемия, токсидром, отёк</text>
+<text x="54" y="408.20000000000005" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">мозга, гипогликемия</text>
+<line x1="399" y1="325.0" x2="424" y2="325.0" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="428" y="160" width="355" height="330" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="3" opacity="1.0"/>
+<text x="442" y="194.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">5 мин: 1-я линия —</text>
+<text x="442" y="220.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">бензодиазепин</text>
+<text x="442" y="252.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Лоразепам в/в 0,1 мг/кг (макс 4 мг)</text>
+<text x="442" y="279.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Диазепам в/в 0,15–0,2 мг/кг (макс</text>
+<text x="442" y="299.29999999999995" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">10 мг); у детей 0,1–0,2 мг/кг</text>
+<text x="442" y="326.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Нет вены: мидазолам в/м 10 мг (&gt; 40</text>
+<text x="442" y="346.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">кг) / 5 мг (13–40 кг), у детей 0,1–0,2</text>
+<text x="442" y="366.75" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">мг/кг; буккально 0,3–0,5 мг/кг;</text>
+<text x="442" y="386.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">интраназально 0,2 мг/кг; диазепам</text>
+<text x="442" y="407.05" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">ректально 0,5 мг/кг (макс 20 мг)</text>
+<text x="442" y="434.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Повтор однократно через 5–10 мин</text>
+<line x1="787" y1="325.0" x2="812" y2="325.0" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="816" y="160" width="355" height="330" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="3" opacity="1.0"/>
+<text x="830" y="194.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">20 мин: 2-я линия</text>
+<text x="830" y="226.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">AES/ESETT (равная эффективность</text>
+<text x="830" y="246.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">≈ 45–47 %):</text>
+<text x="830" y="273.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• леветирацетам 60 мг/кг (макс 4500</text>
+<text x="830" y="293.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">мг)</text>
+<text x="830" y="320.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• вальпроат 40 мг/кг (макс 3000 мг)</text>
+<text x="830" y="347.75" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• фосфенитоин 20 мг ФЭ/кг (макс</text>
+<text x="830" y="367.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">1500 мг)</text>
+<text x="830" y="395.05" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">Отечественные инструкции — ниже:</text>
+<text x="830" y="415.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">вальпроат 15–30, леветирацетам</text>
+<text x="830" y="435.35" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">20–60, фенитоин 15–20 мг/кг (≤ 50</text>
+<text x="830" y="455.5" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">мг/мин, под ЭКГ и АД)</text>
+<line x1="1175" y1="325.0" x2="1200" y2="325.0" stroke="#4b5563" stroke-width="3" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1204" y="160" width="355" height="330" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<text x="1218" y="194.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">40 мин: рефрактерный</text>
+<text x="1218" y="220.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="20" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">статус</text>
+<text x="1218" y="252.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Общая анестезия: мидазолам,</text>
+<text x="1218" y="272.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">пропофол или тиопентал в/в</text>
+<text x="1218" y="299.3" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• Интубация, ИВЛ, ЭЭГ-мониторинг</text>
+<text x="1218" y="326.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">• ОРИТ; продолжать лечение причины</text>
+<text x="1218" y="346.59999999999997" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15.5" fill="#1f2937" text-anchor="start" opacity="1.0">и охлаждение</text>
+<rect x="40" y="525" width="745" height="230" rx="14" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5" opacity="1.0"/>
+<text x="56" y="558.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">Что НЕ является показанием к бензодиазепину</text>
+<text x="56" y="588.8000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• «судорожная готовность», тремор, озноб и дрожь при охлаждении (дрожь</text>
+<text x="56" y="609.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">лечат иначе — § 9.2.3)</text>
+<text x="56" y="634.4000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• уже закончившийся простой фебрильный приступ у ребёнка с</text>
+<text x="56" y="655.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">восстановленным сознанием — нужны наблюдение и поиск причины (§ 12.1.2)</text>
+<text x="56" y="680.0000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• высокая температура сама по себе</text>
+<rect x="815" y="525" width="745" height="230" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="2.5" opacity="1.0"/>
+<text x="831" y="558.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">Пути введения у детей</text>
+<text x="831" y="588.8000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• В/в диазепам 0,1–0,2 мг/кг, макс 10 мг на введение; дозы 0,3–0,5 мг/кг в/в</text>
+<text x="831" y="609.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">избыточны — угнетение дыхания</text>
+<text x="831" y="634.4000000000001" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• В/м диазепам НЕ рекомендуется (медленная, непредсказуемая абсорбция)</text>
+<text x="831" y="659.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">• Без вены: мидазолам буккально / интраназально / в/м (0,1–0,2 мг/кг) или</text>
+<text x="831" y="680.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" opacity="1.0">диазепам ректально 0,5 мг/кг (макс 20 мг)</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Схема аудита 2026-10 к § 9.5.4, § 12.1.5, § 12.1.6, § 14.5. Дозы сверять с локальным протоколом и инструкцией к препарату.</text>
+</svg>

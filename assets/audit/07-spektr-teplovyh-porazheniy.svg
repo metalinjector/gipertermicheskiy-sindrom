@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#4b5563"/></marker><marker id="arr-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/></marker></defs>
+<text x="800.0" y="52" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="34" fill="#1f2937" text-anchor="middle" font-weight="bold" opacity="1.0">Спектр тепловых поражений: где место «теплового повреждения»</text>
+<text x="800.0" y="87.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19.040000000000003" fill="#4b5563" text-anchor="middle" opacity="1.0">по консенсусу ACSM 2023 и руководству WMS; граница тяжести — состояние ЦНС и органов, а не цифра на термометре</text>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#bbf7d0"/><stop offset="0.5" stop-color="#fde68a"/><stop offset="1" stop-color="#fca5a5"/></linearGradient></defs>
+<rect x="40" y="110" width="1520" height="34" rx="17" fill="url(#g)"/>
+<text x="60" y="134" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="start" font-weight="bold" opacity="1.0">лёгкие</text>
+<text x="1540" y="134" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#1f2937" text-anchor="end" font-weight="bold" opacity="1.0">жизнеугрожающие</text>
+<rect x="40" y="170" width="290" height="330" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="3" opacity="1.0"/>
+<text x="54" y="202.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">Тепловые мышечные</text>
+<text x="54" y="226.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">судороги</text>
+<text x="54" y="253.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">(exercise-associated muscle</text>
+<text x="54" y="269.65" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">cramps)</text>
+<text x="54" y="293.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• T_core обычно нормальная</text>
+<text x="54" y="313.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">или умеренно повышена</text>
+<text x="54" y="339.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Болезненные спазмы</text>
+<text x="54" y="359.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">работающих мышц</text>
+<text x="54" y="385.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Покой, растяжение,</text>
+<text x="54" y="405.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">регидратация с солью</text>
+<text x="54" y="431.9" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ЦНС сохранна</text>
+<line x1="185.0" y1="144" x2="185.0" y2="166" stroke="#15803d" stroke-width="2.5" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="347" y="170" width="290" height="330" rx="14" fill="#dcfce7" stroke="#15803d" stroke-width="3" opacity="1.0"/>
+<text x="361" y="202.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#15803d" text-anchor="start" font-weight="bold" opacity="1.0">Тепловой обморок</text>
+<text x="361" y="228.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">(heat syncope)</text>
+<text x="361" y="252.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• T_core обычно &lt; 38 °C</text>
+<text x="361" y="279.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Ортостаз + вазодилатация;</text>
+<text x="361" y="298.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">сознание восстанавливается</text>
+<text x="361" y="318.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">лёжа сразу</text>
+<text x="361" y="344.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Исключить аритмию,</text>
+<text x="361" y="364.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">гипогликемию</text>
+<text x="361" y="390.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ЦНС сохранна после эпизода</text>
+<line x1="492.0" y1="144" x2="492.0" y2="166" stroke="#15803d" stroke-width="2.5" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="654" y="170" width="290" height="330" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="3" opacity="1.0"/>
+<text x="668" y="202.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">Тепловое истощение</text>
+<text x="668" y="228.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">(heat exhaustion)</text>
+<text x="668" y="252.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• T_core ориентировочно</text>
+<text x="668" y="272.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">38,5–40 °C</text>
+<text x="668" y="298.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Слабость, тошнота, головная</text>
+<text x="668" y="318.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">боль, тахикардия, профузный</text>
+<text x="668" y="337.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">пот</text>
+<text x="668" y="364.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Отдых в прохладе,</text>
+<text x="668" y="383.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">охлаждение, регидратация</text>
+<text x="668" y="410.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ЦНС сохранна: нет делирия,</text>
+<text x="668" y="429.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">судорог, комы</text>
+<line x1="799.0" y1="144" x2="799.0" y2="166" stroke="#b45309" stroke-width="2.5" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="961" y="170" width="290" height="330" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="3" opacity="1.0"/>
+<text x="975" y="202.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">Тепловое</text>
+<text x="975" y="226.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#b45309" text-anchor="start" font-weight="bold" opacity="1.0">повреждение</text>
+<text x="975" y="253.4" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">(exertional heat injury)</text>
+<text x="975" y="277.65" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Гипертермия +</text>
+<text x="975" y="297.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">ОБЪЕКТИВНОЕ повреждение</text>
+<text x="975" y="316.65" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">органов: рабдомиолиз (КФК),</text>
+<text x="975" y="336.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">ОПП (креатинин), цитолиз</text>
+<text x="975" y="355.65" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">(АЛТ/АСТ)</text>
+<text x="975" y="382.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• БЕЗ выраженной дисфункции</text>
+<text x="975" y="401.65" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">ЦНС</text>
+<text x="975" y="428.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Лаборатория обязательна,</text>
+<text x="975" y="447.65" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">наблюдение в стационаре</text>
+<text x="975" y="474.15" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Не «лёгкий» пациент</text>
+<line x1="1106.0" y1="144" x2="1106.0" y2="166" stroke="#b45309" stroke-width="2.5" marker-end="url(#arr)" stroke-linecap="round"/>
+<rect x="1268" y="170" width="290" height="330" rx="14" fill="#fee2e2" stroke="#b91c1c" stroke-width="3" opacity="1.0"/>
+<text x="1282" y="202.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="19" fill="#b91c1c" text-anchor="start" font-weight="bold" opacity="1.0">Тепловой удар</text>
+<text x="1282" y="228.7" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="13" fill="#4b5563" text-anchor="start" font-style="italic" opacity="1.0">(heat stroke)</text>
+<text x="1282" y="252.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• T_core &gt; 40 °C (после</text>
+<text x="1282" y="272.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">начала охлаждения может быть</text>
+<text x="1282" y="291.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">ниже)</text>
+<text x="1282" y="318.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• ДИСФУНКЦИЯ ЦНС:</text>
+<text x="1282" y="337.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">спутанность, делирий,</text>
+<text x="1282" y="357.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">атаксия, судороги, кома</text>
+<text x="1282" y="383.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Погружение в холодную воду</text>
+<text x="1282" y="403.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">немедленно: cool first,</text>
+<text x="1282" y="422.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">transport second</text>
+<text x="1282" y="449.45" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Летальность определяется</text>
+<text x="1282" y="468.95" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">временем выше порога</text>
+<line x1="1413.0" y1="144" x2="1413.0" y2="166" stroke="#b91c1c" stroke-width="2.5" marker-end="url(#arr)" stroke-linecap="round"/>
+<line x1="40" y1="525" x2="1250" y2="525" stroke="#15803d" stroke-width="4" stroke-linecap="round"/>
+<text x="645" y="550" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#15803d" text-anchor="middle" font-weight="bold" opacity="1.0">функция ЦНС сохранна</text>
+<line x1="1270" y1="525" x2="1560" y2="525" stroke="#b91c1c" stroke-width="4" stroke-linecap="round"/>
+<text x="1415" y="550" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="16" fill="#b91c1c" text-anchor="middle" font-weight="bold" opacity="1.0">дисфункция ЦНС</text>
+<rect x="40" y="580" width="745" height="230" rx="14" fill="#f3f4f6" stroke="#6b7280" stroke-width="2.5" opacity="1.0"/>
+<text x="56" y="612.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#6b7280" text-anchor="start" font-weight="bold" opacity="1.0">Три оговорки, отличающие схему от реальности</text>
+<text x="56" y="641.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Стадии не обязаны идти последовательно: тепловой удар при нагрузке</text>
+<text x="56" y="661.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">развивается и без предшествующего «истощения»</text>
+<text x="56" y="684.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Потоотделение не разделяет формы: профузный пот типичен для EHS, ангидроз —</text>
+<text x="56" y="704.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">для классического теплового удара, но возможны обе картины</text>
+<text x="56" y="727.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Температура, измеренная после начала охлаждения или не ректально, не снимает</text>
+<text x="56" y="747.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">диагноз</text>
+<rect x="815" y="580" width="745" height="230" rx="14" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.5" opacity="1.0"/>
+<text x="831" y="612.2" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="18" fill="#1d4ed8" text-anchor="start" font-weight="bold" opacity="1.0">Зачем нужна категория «тепловое повреждение»</text>
+<text x="831" y="641.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• У пациента без делирия легко пропустить рабдомиолиз и ОПП: нужна КФК,</text>
+<text x="831" y="661.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">креатинин, калий, АЛТ/АСТ, анализ мочи</text>
+<text x="831" y="684.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Возвращение к нагрузкам — только после нормализации лабораторных</text>
+<text x="831" y="704.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">показателей и поэтапно (ACSM 2023)</text>
+<text x="831" y="727.6" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">• Повторные эпизоды или семейный анамнез — повод обсудить обследование на</text>
+<text x="831" y="747.1" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#1f2937" text-anchor="start" opacity="1.0">предрасположенность к MH (§ 13.1)</text>
+<text x="40" y="882.0" font-family="DejaVu Sans, Verdana, Arial, sans-serif" font-size="15" fill="#4b5563" text-anchor="start" opacity="1.0">Схема аудита 2026-10 к § 4.3.4. Границы температуры ориентировочные; разделяющий признак — ЦНС (тепловой удар) и объективное повреждение органов (тепловое повреждение).</text>
+</svg>
